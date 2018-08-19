@@ -10,3 +10,5 @@ Data structures include:
 4.Stack(using array)
 5.Bracket sequence checking using stack
 6.Tree
+7.Array
+8.Dynamic array
